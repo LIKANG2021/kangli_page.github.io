@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Presentaions in International Conference
-* 19th International Conference on Ground Penetrating Radar (GPR2022, Jun 2022, Colorado, USA, Online).** Poster presentation**：Application of intelligent real-time GPR monitoring system in the quality detection of backfill grouting of shield tunnel.
+* 19th International Conference on Ground Penetrating Radar (GPR2022, Jun 2022, Colorado, USA, Online). **Poster presentation**：Application of intelligent real-time GPR monitoring system in the quality detection of backfill grouting of shield tunnel.
 *	EGU General Assembly 2022 (EGU2022, May 2022, Vienna, Austria). 
 **Oral presentation**：Collaborative use of ground monitoring and GPR data for the control of ground settlement in shield tunnel in soft soil.
 *	The 29th International Conference on Computational & Experimental Engineering and Sci-ences (ICCES 2023).
