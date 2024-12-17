@@ -12,7 +12,7 @@ title                    : "Kang Li"
 title_separator          : "-"
 name                     : &name "Kang Li"
 description              : &description "personal description"
-url                      : "https://likang2021.github.io/kangli.github.io/"
+url                      : https://likang2021.github.io/kangli.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LIKANG2021/kangli.github.io"
 
@@ -22,7 +22,7 @@ repository               : "LIKANG2021/kangli.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kang Li"
+  name             : "   Kang Li"
   pronouns         : # example: "He/His"  
   bio              : "PhD Candidate of Civil Engineering at Tongji University"
   location         : "1239 Siping Road, Yangpu District, Shanghai, China"
@@ -33,7 +33,7 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=dkgXk5EAAAAJ"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4142-397X"
-  researchgate     :  "https://www.researchgate.net/profile/Kang-Li-69"
+  researchgate     : "https://www.researchgate.net/profile/Kang-Li-69"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
