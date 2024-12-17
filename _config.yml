@@ -22,10 +22,10 @@ repository               : "LIKANG2021/kangli.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "   Kang Li"
+  name             : "Kang Li"
   pronouns         : # example: "He/His"  
   bio              : "PhD Candidate of Civil Engineering at Tongji University"
-  location         : "1239 Siping Road, Yangpu District, Shanghai, China"
+  location         : "1239 Siping Road, Yangpu, Shanghai"
   employer         : "Tongji University"
   uri              : # URL
   email            : "kaangli@outlook.com" 
@@ -39,7 +39,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : https://github.com/LIKANG2021
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
