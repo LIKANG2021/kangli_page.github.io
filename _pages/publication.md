@@ -7,172 +7,47 @@ redirect_from:
   - /publication.html
 ---
 
-## Locations of key files/directories
+## Published Journal Papers
+***Li, K.**, Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100-119.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+***Li, K.**, Xie, X., Huang, C., Zhou, B., Duan, W., Lin, H., & Wang, C. (2023). Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test. Construction and Building Materials, 400, 132719.
 
-## Tips and hints
+*Guo, S., Zhou, J., Li, Z., Zheng, L., Wang, X., Cheng, S., & **Li, K.** (2024). End-to-end machine-learning for high-gravity ammonia stripping: Bridging the gap between scientific research and user-friendly applications. Water Research, 248, 120790.
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+***李康**,谢雄耀,周彪,等.盾构隧道双液同步注浆GPR检测模型试验[J].中国公路学报,2024,37(03):330-341.DOI:10.19721/j.cnki.1001-7372.2024.03.021.(in Chinese)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+***李康**,高永涛,周喻,等.立井井筒失稳机理与加固方法[J].中南大学学报(自然科学版),2020,51(04):1068-1076.(in Chinese)
 
-## MathJax 
+***李康**,谢雄耀,周彪,等.盾构隧道壁后注浆智能检测的“云-边-端”架构及应用[J/OL].土木与环境工程学报(中英文),1-10[2024-12-17].http://kns.cnki.net/kcms/detail/50.1218.tu.20240730.1036.002.html. (in Chinese)
 
-Support for MathJax Version 3.0 is included in the template:
+*李建旺,**李康**,周喻.复杂地质条件下高速公路隧道数值计算模型构建方法研究[J].公路,2020,65(01):314-319.(in Chinese)
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+## Published Conference Papers
+***Li, K.**, Xie, X., Zhou, B., Huang, C., Zhang, Z., Lin, H., & Zeng, L. (2024, April). GPR-AI Master: GPR Data Analysis Utilizing Deep Learning and ECS for Backfill Grouting Detection in Shield Tunnels. In 2024 Photonics & Electromagnetics Research Symposium (PIERS) (pp. 1-8). IEEE.
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+***Li, K.**, Xie, X., Zhou, B., Tang, L., Lin, H., & Cao, Y. (2023, May). Quality Evaluation for Synchronous Grouting of Shield Tunnels Based on the GPR Detection. In International Conference on Computational & Experimental Engineering and Sciences (pp. 815-823). Cham: Springer International Publishing.
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+***Li, K.**, Tang, L., Xie, X., Zhou, B., & Wen, M. (2022, November). Collaborative Methods for the Ground Settlement Control in Shield Tunnels: Based on Numerical Simulation, GPR Detection and Ground Monitoring. In 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE) (pp. 244-251). IEEE.
 
-## Markdown guide
+*Cao, Y., Xie, X., Zhou, B., Wu, H., Wang, C., & **Li, K.** (2023, May). Responses of Existing Tunnel Caused by Undercrossing Super-Large Diameter Shield Tunnel. In International Conference on Computational & Experimental Engineering and Sciences (pp. 825-836). Cham: Springer International Publishing.
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+*Duan, W., Xie, X., Yang, Y., Wu, H., Zeng, L., & **Li, K.** (2022, November). Forward modeling of ground penetrating radar in look-ahead detection of slurry balance shield machine. In 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE) (pp. 181-184). IEEE.
 
-### Header three
+***Li, K.**, Xie, X., Zhang, X., Zhou, B., Qu, T., & Zeng, L. (2022, October). Application of intelligent real-time GPR monitoring system in the quality detection of backfill grouting of shield tunnel. In 19th International Conference on Ground Penetrating Radar (pp. 83-86). Society of Exploration Geophysicists.
 
-#### Header four
+## Forthcoming Journal Articles
 
-##### Header five
+* **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). Tunnel Lining Defects Identification using TPE-CatBoost Algorithm with GPR Data: A Model Test Study (Tunnelling and Underground Space Technolog, Accepted,IF=6.4).
 
-###### Header six
+* **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). GPR Detection of Composite Lining with Steel Fiber-Reinforced Concrete in Shield Tunnels: A Model Experiment and On-site Test Study (Frontiers of Structural and Civil Engineering, Accepted)
 
-## Blockquotes
+* **Li, K.**, Xie, X., Zhou, B., Huang, C.,& Cai G.. (2024). Experimental data-driven and Elastic Compute Service framework for intelligent identification of backfill grouting thickness in shield tunnels (Tunnelling and Underground Space Technolog, Underreview)
+* Cai, G., Xie X., **Li K***. Intelligent GPR Detection of Backfill Grouting and Adjacent Soil Cavities in Shield Tun-nels. (Advances in Civil Engineering, Under review)
 
-Single line blockquote:
 
-> Quotes are cool.
+## Forthcoming Conference Articles
+No further meetings for the time being
 
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
-
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-```
-
-which wil render as:
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-
-### Footnotes
-
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
-
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
-
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
-
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
-
-## HTML Tags
 
 ### Address Tag
 
