@@ -41,9 +41,9 @@ redirect_from:
 
 * **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). GPR Detection of Composite Lining with Steel Fiber-Reinforced Concrete in Shield Tunnels: A Model Experiment and On-site Test Study (Frontiers of Structural and Civil Engineering, Accepted)
 
-* **Li, K.**, Xie, X., Zhou, B., Huang, C.,& Cai G.. (2024). Experimental data-driven and Elastic Compute Service framework for intelligent identification of backfill grouting thickness in shield tunnels (Tunnelling and Underground Space Technolog, Underreview)
+* **Li, K.**, Xie, X., Zhou, B., Huang, C.,& Cai G.. (2024). Experimental data-driven and Elastic Compute Service framework for intelligent identification of backfill grouting thickness in shield tunnels (Tunnelling and Underground Space Technolog, Under review)
 * Cai, G., Xie X., **Li K***. Intelligent GPR Detection of Backfill Grouting and Adjacent Soil Cavities in Shield Tun-nels. (Advances in Civil Engineering, Under review)
 
 
 ## Forthcoming Conference Articles
-No further meetings for the time being
+* No further meetings for the time being.
