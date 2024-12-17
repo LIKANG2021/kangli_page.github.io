@@ -8,20 +8,16 @@ main:
   - title: "Publications"
     url: /publication/
 
+    - title: "Patents & Softwares"
+    url: /teaching/    
+
   - title: "Presentaions"
     url: /presentation/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /project/
+
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
