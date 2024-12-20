@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kang Li-Tongji University"
 title_separator          : "-"
-name                     : &name "Kang Li"
+name                     : &name "Kang Li-Tongji University"
 description              : &description "personal description"
 url                      : https://likang2021.github.io/kangli/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
