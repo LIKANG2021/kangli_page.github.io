@@ -29,4 +29,4 @@ Primary skills
 
 For more info
 ------
-Please feel free to contact me via my [e-mail](kaangli@outlook.com)
+Please feel free to contact me via my [e-mail here](kaangli@outlook.com).
