@@ -14,7 +14,7 @@ name                     : &name "Kang Li"
 description              : &description "personal description"
 url                      : https://likang2021.github.io/kangli/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LIKANG2021/kangli.github.io"
+repository               : "LIKANG2021/kangli"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "LIKANG2021/kangli.github.io"
 author:
   # Biographic information
   avatar           : "01.JPG"
-  name             : "Kang Li-Tongji University"
+  name             : "Kang Li"
   pronouns         : # example: "He/His"  
   bio              : "PhD Candidate of Civil Engineering at Tongji University"
   location         : "1239 Siping Road, Yangpu, Shanghai"
