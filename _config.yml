@@ -27,7 +27,7 @@ author:
   bio              : "PhD Candidate of Civil Engineering at Tongji University"
   location         : "1239 Siping Road, Yangpu, Shanghai"
   employer         : "Tongji University"
-  uri              : "tongji.edu.cn"
+  uri              : #"tongji.edu.cn"
   email            : "kaangli@outlook.com" 
 
   # Academic websites
