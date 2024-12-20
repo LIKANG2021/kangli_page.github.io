@@ -18,7 +18,7 @@ redirect_from:
 
 * **李康**,高永涛,周喻,等.立井井筒失稳机理与加固方法[J].**中南大学学报(自然科学版)**,2020,51(04):1068-1076.(in Chinese)
 
-* **李康**,谢雄耀,周彪,等.盾构隧道壁后注浆智能检测的“云-边-端”架构及应用[J/OL].**土木与环境工程学报(中英文)**,1-10 [2024-12-17].http://kns.cnki.net/kcms/detail/50.1218.tu.20240730.1036.002.html. (in Chinese)
+* **李康**,谢雄耀,周彪,等.盾构隧道壁后注浆智能检测的“云-边-端”架构及应用[J/OL].**土木与环境工程学报(中英文)**,1-10 [2024-12-17]. (in Chinese)
 
 * 李建旺,**李康**,周喻.复杂地质条件下高速公路隧道数值计算模型构建方法研究[J].公路,2020,65(01):314-319.(in Chinese)
 
@@ -42,6 +42,7 @@ redirect_from:
 * **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). GPR Detection of Composite Lining with Steel Fiber-Reinforced Concrete in Shield Tunnels: A Model Experiment and On-site Test Study (Frontiers of Structural and Civil Engineering, Accepted)
 
 * **Li, K.**, Xie, X., Zhou, B., Huang, C.,& Cai G.. (2024). Experimental data-driven and Elastic Compute Service framework for intelligent identification of backfill grouting thickness in shield tunnels (Tunnelling and Underground Space Technolog, Under review)
+
 * Cai, G., Xie X., **Li K***. Intelligent GPR Detection of Backfill Grouting and Adjacent Soil Cavities in Shield Tun-nels. (Advances in Civil Engineering, Under review)
 
 
