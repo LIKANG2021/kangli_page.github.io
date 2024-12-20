@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kang Li"
+title                    : "Kang Li-Tongji University"
 title_separator          : "-"
 name                     : &name "Kang Li"
 description              : &description "personal description"
-url                      : https://likang2021.github.io/kangli.github.io/
+url                      : https://likang2021.github.io/kangli/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LIKANG2021/kangli.github.io"
 
@@ -22,7 +22,7 @@ repository               : "LIKANG2021/kangli.github.io"
 author:
   # Biographic information
   avatar           : "01.JPG"
-  name             : "Kang Li"
+  name             : "Kang Li-Tongji University"
   pronouns         : # example: "He/His"  
   bio              : "PhD Candidate of Civil Engineering at Tongji University"
   location         : "1239 Siping Road, Yangpu, Shanghai"
