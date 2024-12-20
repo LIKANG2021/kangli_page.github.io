@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Kang Li, now I am a PhD student of Civil Engineering in Tongji University, and I am going to get my PhD degree in 2025. To let you know me better, I have made this webpage to show the information about my basic situation, research field, research results, etc. If you are interested in my research, please feel free to contact me through the content of my academic homepage, and I am looking forward to your communication.
+Hi! I am Kang Li, now I am a PhD candidate of **Civil Engineering in Tongji University**, and I am going to get my PhD degree in 2025. To let you know me better, I have made this webpage to show the information about my basic situation, research field, research results, etc. If you are interested in my research, please feel free to contact me through the content of my academic homepage, and I am looking forward to your communication.
 
 Education background and work experience
 ------
@@ -20,6 +20,12 @@ From July to October 2020, I briefly worked as a Senior Investment Development S
 Primary research interests
 ------
 All along, my research focuses on the construction and safety monitoring of underground engineering, with my bachelor's thesis related to slope stabilization in open-pit mines, my master's thesis related to damage mechanism analysis and stabilization of mine shafts, and my PhD research is on the ground-penetrating radar non-destructive monitoring of shield tunnels and intelligent analysis of the data.
+
+Primary skills
+------
+* Programming skills: Python, Matlab.
+* Softwares: gprMax, COMSOL, Rhino, 3DMAX, AutoCAD, Surfer, Plaxis, FLAC3D, PFC3D, ANSYS, Cyclone, etc.
+* Language: Chinese (native), English CET-4 and CET-6, IELTS score: 6.5.
 
 For more info
 ------
