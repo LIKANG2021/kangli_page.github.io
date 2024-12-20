@@ -15,4 +15,3 @@ Education
 * M.S. in Mining Engineering, University of Science and Technology Beijing, 2018-2020
 * B.S. in Mining and Resource Engineering, University of Science and Technology Beijing, 2014-2018
 
-
