@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Published Journal Papers
+* **Li, K.**, Xie, X., Zhai, J., Zhou, B., Huang, C., & Wang, C. (2025). Tunnel lining defects identification using TPE-CatBoost algorithm with GPR data: A model test study. Tunnelling and Underground Space Technology, 157, 106275.
+
 * **Li, K.**, Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. **Underground Space**, 17, 100-119.
 
 * **Li, K.**, Xie, X., Huang, C., Zhou, B., Duan, W., Lin, H., & Wang, C. (2023). Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test. **Construction and Building Materials**, 400, 132719.
@@ -37,14 +39,13 @@ redirect_from:
 
 ## Forthcoming Journal Articles
 
-* **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). Tunnel Lining Defects Identification using TPE-CatBoost Algorithm with GPR Data: A Model Test Study (Tunnelling and Underground Space Technolog, Accepted,IF=6.4).
-
 * **Li, K.**, Xie, X., Zhou, B., & Huang, C.. (2024). GPR Detection of Composite Lining with Steel Fiber-Reinforced Concrete in Shield Tunnels: A Model Experiment and On-site Test Study (Frontiers of Structural and Civil Engineering, Accepted)
 
 * **Li, K.**, Xie, X., Zhou, B., Huang, C.,& Cai G.. (2024). Experimental data-driven and Elastic Compute Service framework for intelligent identification of backfill grouting thickness in shield tunnels (Tunnelling and Underground Space Technolog, Under review)
 
 * Cai, G., Xie X., **Li K***. Intelligent GPR Detection of Backfill Grouting and Adjacent Soil Cavities in Shield Tun-nels. (Advances in Civil Engineering, Under review)
 
+* **Li, K.**, Xie, X., Zhou, B., Huang, C. Multi-Dimensional Space-Air-Ground-Underground Monitoring of Tunnel Construction and Its Intelligent Cloud-Edge-Terminal Application System (Completed and ready to submit).
 
 ## Forthcoming Conference Articles
 * No further meetings for the time being.
