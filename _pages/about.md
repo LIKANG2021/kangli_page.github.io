@@ -17,13 +17,13 @@ During my undergraduate years, I traveled to [Central South University] (https:/
 
 From July to October 2020, I briefly worked as a Senior Investment Development Specialist in the North Jiangsu region of Country Garden Group for real estate investment.
 
-Primary research interests
+Research interests
 ------
 All along, my research focuses on the construction and safety monitoring of underground engineering, with my bachelor's thesis related to slope stabilization in open-pit mines, my master's thesis related to damage mechanism analysis and stabilization of mine shafts, and my PhD research is on the ground-penetrating radar non-destructive monitoring of shield tunnels and intelligent analysis of the data.
 
 My doctoral research focused on non-destructive testing and intelligent applications for underground engineering structures. Specifically, I developed automated equipment equipped with GPR for the automatic monitoring of structures in shield tunnel construction and operation scenarios, while utilizing AI models for rapid and intelligent data analysis. I also contributed to the research on intelligent monitoring systems based on the 'cloud-edge-terminal' architecture and developed the [GPR-AI Master] (https://www.gprai.com.cn/), which is built on elastic server infrastructure of Alibaba Group.
 
-Primary skills
+Skills
 ------
 * Programming skills: Python, Matlab.
 * Softwares: gprMax, COMSOL, Rhino, 3DMAX, AutoCAD, Surfer, Plaxis, FLAC3D, PFC3D, ANSYS, Cyclone, etc.
@@ -31,4 +31,4 @@ Primary skills
 
 For more info
 ------
-Please feel free to contact me via my [e-mail here](kaangli@outlook.com).
+Please feel free to contact me via my e-mail: **kaangli@outlook.com**
