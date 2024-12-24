@@ -16,13 +16,13 @@ redirect_from:
 
 * Guo, S., Zhou, J., Li, Z., Zheng, L., Wang, X., Cheng, S., & **Li, K.** (2024). End-to-end machine-learning for high-gravity ammonia stripping: Bridging the gap between scientific research and user-friendly applications. **Water Research**, 248, 120790.
 
-* **李康**,谢雄耀,周彪,等.盾构隧道双液同步注浆GPR检测模型试验[J].**中国公路学报**,2024,37(03):330-341.DOI:10.19721/j.cnki.1001-7372.2024.03.021.(in Chinese)
+* **李康**,谢雄耀,周彪,等.盾构隧道双液同步注浆GPR检测模型试验[J].**中国公路学报**,2024,37(03):330-341. (in Chinese)
 
 * **李康**,高永涛,周喻,等.立井井筒失稳机理与加固方法[J].**中南大学学报(自然科学版)**,2020,51(04):1068-1076.(in Chinese)
 
 * **李康**,谢雄耀,周彪,等.盾构隧道壁后注浆智能检测的“云-边-端”架构及应用[J/OL].**土木与环境工程学报(中英文)**,1-10 [2024-12-17]. (in Chinese)
 
-* 李建旺,**李康**,周喻.复杂地质条件下高速公路隧道数值计算模型构建方法研究[J].公路,2020,65(01):314-319.(in Chinese)
+* 李建旺,**李康**,周喻.复杂地质条件下高速公路隧道数值计算模型构建方法研究[J].**公路**,2020,65(01):314-319.(in Chinese)
 
 ## Published Conference Papers
 * **Li, K.**, Xie, X., Zhou, B., Huang, C., Zhang, Z., Lin, H., & Zeng, L. (2024, April). GPR-AI Master: GPR Data Analysis Utilizing Deep Learning and ECS for Backfill Grouting Detection in Shield Tunnels. In 2024 Photonics & Electromagnetics Research Symposium (PIERS) (pp. 1-8). IEEE.
